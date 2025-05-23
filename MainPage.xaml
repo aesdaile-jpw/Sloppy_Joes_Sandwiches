@@ -63,7 +63,7 @@
 
             <Label x:Name="guacamole" FontSize="18" FontAttributes="Italic" Grid.Row="6" Text="guacamole" Grid.ColumnSpan="2" 
                    HorizontalOptions="End" VerticalOptions="End"/>
-            
+
         </Grid>
         
     </ScrollView>
