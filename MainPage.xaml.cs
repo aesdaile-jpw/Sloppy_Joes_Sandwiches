@@ -8,6 +8,9 @@
         {
             InitializeComponent();
             MakeTheMenu();
+
+            item1.SetValue(SemanticProperties.DescriptionProperty, "Here are the items on the menu. " + item1.Text);
+
         }
 
         private void MakeTheMenu()
